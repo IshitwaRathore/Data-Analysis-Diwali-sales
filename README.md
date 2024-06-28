@@ -19,4 +19,4 @@ III.TASKS
 3.Exploratory Data Analysis (EDA):
 4.Visualizing sales trends over time.
 
-IV.DATASET-Kaggle Dataset
+IV.DATASET-Kaggle Dataset, Retail and E-commerce Platforms
