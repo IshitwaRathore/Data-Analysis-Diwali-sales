@@ -1,4 +1,4 @@
-# Data-Analysis-Diwali-sales
+# Diwali-Sales-Analysis
 I.DESCRIPTION 
 
 The analysis of Diwali sales data involves examining sales patterns, customer behavior, and overall performance during the Diwali festival season. This analysis helps in understanding trends, identifying key products, and strategizing for future sales events.
